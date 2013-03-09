@@ -1,5 +1,5 @@
 {
-    "name": "ninety-nine-lime/html-kickstart-bundle"
+    "name": "ninety-nine-lime/html-kickstart-bundle",
     "type": "symfony-bundle",
     "description": "99Lime joshuagatcke Html-Kickstart HtmlKickstartBundle",
     "keywords": ["99Lime", "joshuagatcke",  "Html-Kickstart", "HtmlKickstartBundle"],
